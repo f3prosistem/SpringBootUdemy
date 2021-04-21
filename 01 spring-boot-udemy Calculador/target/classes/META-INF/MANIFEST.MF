@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: f3pro
+Build-Jdk: 15.0.2
+Implementation-Title: spring-boot-udemy
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.f3pro
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-boot-udemy
+Created-By: Maven Integration for Eclipse
+
